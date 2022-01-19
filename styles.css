@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    padding: 30px 0px 10px 0px;
+}
+
+.subheading {
+    text-align: center;
+    margin: auto;
+}
+
+.todo-form {
+    padding-top: 20px;
+    width: 50%!important;
+    margin: auto;
+}
+
+.btn-success {
+    width: 10%;
+}
+
+.todo-div {
+    width: 50%!important;
+    margin: auto;
+}
+
+li:hover {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.strike-through {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.fa-trash {
+    color: gray;
+    float: right;
+    margin: 4px 0px 0px 0px;
+}
+
+.fa-trash:hover {
+    color: #E03636;
+  }
+
+.footer {
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}
